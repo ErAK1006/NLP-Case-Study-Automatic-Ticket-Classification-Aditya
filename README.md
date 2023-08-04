@@ -28,3 +28,18 @@ You will be doing topic modelling on the .json data provided by the company. Sin
 * Others 
 
 With the help of topic modelling, you will be able to map each ticket onto its respective department/category. You can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, you can classify any new customer complaint support ticket into its relevant department.
+
+## Technologies Used
+* Visual Studio Code (Version: 1.78.2)
+
+## Acknowledgements
+Give credit here.
+* References by Upgrad
+
+## Team
+* Aditya Kumar Pal
+
+## Contact
+Created by [@ErAK1006]
+
+https://github.com/ErAK1006/NLP-Case-Study-Automatic-Ticket-Classification-Aditya

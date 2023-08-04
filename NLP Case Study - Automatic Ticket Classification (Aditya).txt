@@ -1,0 +1,14 @@
+==============================
+NLP Case Study - Automatic Ticket Classification
+
+==============================
+
+Created By - Aditya Kumar Pal
+
+Team Member - Kumar DSP
+
+Assignment - NLP Case Study - Automatic Ticket Classification
+
+Contact    - For further information about this Assignment please contact- 
+
+             [https://github.com/ErAK1006/NLP-Case-Study-Automatic-Ticket-Classification-Aditya]
